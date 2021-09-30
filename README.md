@@ -11,6 +11,8 @@ This is a fronted challenge to level up design skills from [frontend mentor](htt
 - Javascript: 3 Hours
 - Debugging: 1 Hour 
 
+### Live Testing
+You can check it here on  [gh-pages](https://joshwambere.github.io/frontend-mentor-challenge/)
 ### Final product
 #### Desktop Dark
 ![Design final product for the Todo app coding challenge](./outcome/desk-dark.png)
