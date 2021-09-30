@@ -11,4 +11,16 @@ This is a fronted challenge to level up design skills from [frontend mentor](htt
 - Javascript: 3 Hours
 - Debugging: 1 Hour 
 
+### Final product
+#### Desktop Dark
+![Design final product for the Todo app coding challenge](./outcome/desk-dark.png)
+
+#### Desktop Light
+![Design final product for the Todo app coding challenge](./outcome/desk-light.png)
+#### Mobile Dark
+![Design final product for the Todo app coding challenge](./outcome/mob-dark.png)
+#### Mobile Light
+![Design final product for the Todo app coding challenge](./outcome/mob-light.png)
+
+
 
