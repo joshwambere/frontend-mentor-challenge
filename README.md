@@ -4,5 +4,11 @@ Welcome to my repo my name is Johnson i'm a full-stack software dev with a desig
 ### About the Challenge
 This is a fronted challenge to level up design skills from [frontend mentor](https://github.com/mukunzidd/todo-app-starter)
 
-### Time taken 🕡
+### Time taken 🕡 
 - Dark mode: 72 Minutes
+- Light mode: 17 Minutes
+- Mobile: 30 Minutes
+- Javascript: 3 Hours
+- Debugging: 1 Hour 
+
+
