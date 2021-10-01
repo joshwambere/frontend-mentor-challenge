@@ -16,7 +16,7 @@ function DarkModeSwitcher(){
    inp.classList.add('light')
    todo.classList.add('light')
    btn.src='../resources/images/icon-moon.svg'
-   headWidget.style.background="#fff url('../../resources/images/bg-desktop-light.jpg')"
+   headWidget.style.background="#fff url('./resources/images/bg-desktop-light.jpg')"
    headWidget.style.backgroundRepeat="no-repeat"
    headWidget.style.backgroundSize="cover"
   }else{
@@ -25,7 +25,7 @@ function DarkModeSwitcher(){
    inp.classList.remove('light')
    todo.classList.remove('light')
    btn.src='../resources/images/icon-sun.svg'
-   headWidget.style.background="#fff url('../../resources/images/bg-desktop-dark.jpg')"
+   headWidget.style.background="#fff url('./resources/images/bg-desktop-dark.jpg')"
    headWidget.style.backgroundRepeat="no-repeat"
    headWidget.style.backgroundSize="cover"
   }
@@ -121,7 +121,7 @@ function displayTodo(){
         <p class="${element.status== "completed" ? 'completed-task' :'uncompleted' }">${element.name}</p>
       </div>
       <div class="close">
-        <img src="../resources/images/icon-cross.svg" alt="" id="delete" onclick="popTodo(${index})">
+        <img src="./resources/images/icon-cross.svg" alt="" id="delete" onclick="popTodo(${index})">
       </div>
     </div>  `
   });
@@ -146,7 +146,7 @@ function appendTodo(){
         <p class="${item.status== "completed" ? 'completed-task' :'uncompleted' }">${item.name}</p>
       </div>
       <div class="close">
-        <img src="../resources/images/icon-cross.svg" alt="" id="delete" onclick="popTodo(${nextIndex})">
+        <img src="./resources/images/icon-cross.svg" alt="" id="delete" onclick="popTodo(${nextIndex})">
       </div>
     </div>  `
     nextIndex++
