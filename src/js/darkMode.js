@@ -15,7 +15,7 @@ function DarkModeSwitcher(){
    bod.classList.add('light')
    inp.classList.add('light')
    todo.classList.add('light')
-   btn.src='../resources/images/icon-moon.svg'
+   btn.src='./resources/images/icon-moon.svg'
    headWidget.style.background="#fff url('./resources/images/bg-desktop-light.jpg')"
    headWidget.style.backgroundRepeat="no-repeat"
    headWidget.style.backgroundSize="cover"
@@ -24,7 +24,7 @@ function DarkModeSwitcher(){
    bod.classList.remove('light')
    inp.classList.remove('light')
    todo.classList.remove('light')
-   btn.src='../resources/images/icon-sun.svg'
+   btn.src='./resources/images/icon-sun.svg'
    headWidget.style.background="#fff url('./resources/images/bg-desktop-dark.jpg')"
    headWidget.style.backgroundRepeat="no-repeat"
    headWidget.style.backgroundSize="cover"
